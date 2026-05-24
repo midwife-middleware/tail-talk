@@ -1,4 +1,4 @@
-# agents/ - multi-agent chat in one directory
+# tail-talk/ - multi-agent chat in one directory
 
 > The whole protocol, in six words: **append JSON line to recipient's file.**
 
